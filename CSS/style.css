@@ -4,10 +4,9 @@ body {
 }
 
 img {
-  height: 50%;
+  height: 25%;
   width: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
+  text-align: center;
 }
 
 h1 {
