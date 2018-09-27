@@ -30,19 +30,19 @@ form {
   text-align: center;
 }
 
- .usrname {
+ #usrname {
   background-color: yellow;
   color: black;
   text-align: center;
 }
 
-input[type="email"] {
+  #usremail {
   background-color: yellow;
   color: black;
   text-align: center;
 }
 
- button:hover {
+ #submit:hover {
   transition-duration: 0.3s;
   background-color: grey;
   color: black;
