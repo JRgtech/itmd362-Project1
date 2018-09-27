@@ -13,6 +13,7 @@ h1 {
 p {
   text-align: center;
   font-weight: bold;
+  color: white;
 }
 
 form {
@@ -21,6 +22,7 @@ form {
 
 img {
   background-position: center;
+  object-fit: scale-down;
 }
 
 input[type="name"] {
