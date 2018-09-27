@@ -17,8 +17,8 @@ p {
 }
 
 img {
-  object-fit: scale-down;
-  text-align: center;
+  width: auto;
+  height: auto;
 }
 
 form {
