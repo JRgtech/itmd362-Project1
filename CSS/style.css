@@ -44,8 +44,10 @@ form {
 
  #submit:hover {
   transition-duration: 0.3s;
+  display: inline-block;
   background-color: grey;
   color: black;
+  font-size: 24px;
   text-align: center;
   margin: auto;
 }
