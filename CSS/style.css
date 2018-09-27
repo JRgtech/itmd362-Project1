@@ -1,5 +1,13 @@
 body {
   background-color: green;
+  height: 100%;
+}
+
+img {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
@@ -21,7 +29,6 @@ p {
 
 form {
   text-align: center;
-  background-image: url("https://www.bhphotovideo.com/images/images2500x2500/sony_ilce6000l_h_a6000_mirrorless_camera_with_1295405.jpg");
 }
 
 input[type="name"] {
