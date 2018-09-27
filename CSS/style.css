@@ -1,12 +1,12 @@
 body {
   background-color: green;
-  height: 100%;
 }
 
 img {
   height: 25%;
-  width: 50%;
-  text-align: center;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
