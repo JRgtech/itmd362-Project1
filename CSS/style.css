@@ -30,7 +30,7 @@ form {
   text-align: center;
 }
 
-input[id="usrname"] {
+ .usrname {
   background-color: yellow;
   color: black;
   text-align: center;
@@ -42,7 +42,7 @@ input[type="email"] {
   text-align: center;
 }
 
- .button:hover {
+ button:hover {
   transition-duration: 0.3s;
   background-color: grey;
   color: black;
