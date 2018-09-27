@@ -1,4 +1,4 @@
-function userButton(button) {
+function userButton() {
   getElementsByName('name');
-  alert("Thank you ")name(".A confirmation email will be sent out shortly");
+  alert.onclick("Thank you ")name(".A confirmation email will be sent out shortly");
 }
