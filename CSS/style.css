@@ -6,7 +6,7 @@ body {
   height: 100%;
   margin: 0;
   background-image: url("/itmd362-Project1/Image/skyline.jpg");
-  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1 {
