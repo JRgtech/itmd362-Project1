@@ -5,15 +5,8 @@ html {
 body {
   height: 100%;
   margin: 0;
-  background-image: linear-gradient(to bottom, white, black);
+  background-image: url("itmd362-Project1/Image/skyline.jpg");
   background-repeat: no-repeat;
-}
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 25%;
 }
 
 h1 {
@@ -22,6 +15,7 @@ h1 {
   background-color: white;
   color: black;
   text-align: center;
+  font-weight: bold;
 }
 
 .des {
@@ -31,14 +25,11 @@ h1 {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: orange;
+  background-color: lightsteelblue;
   overflow-x: hidden;
 }
 
 p {
-  border-style: solid;
-  border-width: 5px;
-  background-color: white;
   text-align: center;
   font-weight: bold;
   color: black;
