@@ -23,6 +23,7 @@ p {
   background-color: white;
   text-align: center;
   font-weight: bold;
+  color: black;
 }
 
 form {
@@ -31,13 +32,13 @@ form {
 
  #usrname {
   background-color: yellow;
-  color: black;
+  color: white;
   text-align: center;
 }
 
   #usremail {
   background-color: yellow;
-  color: black;
+  color: white;
   text-align: center;
 }
 
