@@ -27,11 +27,7 @@ p {
   color: black;
 }
 
-form {
-  text-align: center;
-}
-
- #usrname {
+  #usrname {
   background-color: yellow;
   color: black;
   text-align: center;
