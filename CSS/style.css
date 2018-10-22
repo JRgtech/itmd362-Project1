@@ -6,6 +6,15 @@ body, html {
   background-size: cover;
 }
 
+@@keyframes watch {
+  from {
+    display: none;
+  }
+  to {
+    display: block;
+  }
+}
+
 .des {
   /*height: 50%;*/
   width: 50%;
@@ -15,6 +24,8 @@ body, html {
   /*margin-right: auto;*/
   background-color: rgba(210, 210, 210, 0.3);
   border-radius: 30px;
+  animation-name: watch;
+  animation-duration: 3s;
 }
 
 p {
