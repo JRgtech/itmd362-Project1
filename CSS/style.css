@@ -9,6 +9,7 @@ body, html {
 .des {
   height: 50%;
   width: 50%;
+  margin: auto;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
