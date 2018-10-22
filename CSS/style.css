@@ -7,14 +7,10 @@ body, html {
 }
 
 .des {
-  height: 100%;
-  width: 15%;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: rgba(255, 0, 0, 0.5);
-  overflow-x: hidden;
+  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(210, 210, 210, 0.5);
 }
 
 p {
@@ -24,13 +20,13 @@ p {
 }
 
   #usrname {
-  background-color: yellow;
+  background-color: gray;
   color: black;
   text-align: center;
 }
 
   #usremail {
-  background-color: yellow;
+  background-color: gray;
   color: black;
   text-align: center;
 }
