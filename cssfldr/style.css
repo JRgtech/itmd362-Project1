@@ -58,12 +58,12 @@ body, html {
   text-align: center;
 }
 
-#submit:hover {
+/*#submit:hover {
   transition-duration: 0.3s;
   display: inline-block;
   background-color: white;
   color: black;
   font-size: 24px;
   text-align: center;
-  margin: auto;
+  margin: auto;*/
 }
