@@ -6,6 +6,27 @@ body, html {
   background-size: cover;
 }
 
+.menu {
+  width: 25%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: orange;
+  overflow-x: hidden;
+}
+
+.menu a {
+  text-decoration: none;
+  font-size: 15px;
+  color: red;
+  display: block;
+}
+
+.menu a:hover {
+  color: white;
+}
+
 .des {
   width: 50%;
   margin: auto;
