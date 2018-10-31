@@ -6,23 +6,12 @@ body, html {
   background-size: cover;
 }
 
-@keyframes watch {
-  from {
-    display: none;
-  }
-  to {
-    display: block;
-  }
-}
-
 .des {
   width: 50%;
   margin: auto;
   text-align: center;
   background-color: rgba(210, 210, 210, 0.3);
   border-radius: 30px;
-  animation-name: watch;
-  animation-duration: 3s;
 }
 
 p {
@@ -31,19 +20,19 @@ p {
   color: black;
 }
 
-  #usrname {
+#usrname {
   background-color: gray;
   color: black;
   text-align: center;
 }
 
-  #usremail {
+#usremail {
   background-color: gray;
   color: black;
   text-align: center;
 }
 
- #submit:hover {
+#submit:hover {
   transition-duration: 0.3s;
   display: inline-block;
   background-color: grey;
