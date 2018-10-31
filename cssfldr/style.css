@@ -37,6 +37,11 @@ body, html {
   background-color: white;
 }
 
+.layout h1 {
+  font-size: 25px;
+  text-align: center;
+}
+
 .des p {
   font-weight: bold;
   color: black;
@@ -57,13 +62,4 @@ body, html {
   color: black;
   text-align: center;
 }
-
-/*#submit:hover {
-  transition-duration: 0.3s;
-  display: inline-block;
-  background-color: white;
-  color: black;
-  font-size: 24px;
-  text-align: center;
-  margin: auto;*/
 }
