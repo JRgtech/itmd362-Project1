@@ -30,7 +30,7 @@ body, html {
 }
 
 .layout {
-  margin:auto;
+  transform: translate(-50% -50%);
   width: 300px;
   padding: 5px;
   border: 5px solid orange;
