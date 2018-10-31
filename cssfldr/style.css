@@ -45,7 +45,7 @@ body, html {
 .layout h2 {
   font-size: 15px;
   text-align: center;
-  text-decoration-style: double;
+  text-decoration-style: dashed;
 }
 
 .des p {
