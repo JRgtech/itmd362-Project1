@@ -31,8 +31,8 @@ body, html {
 
 .layout {
   width: 300px;
-  padding: 75px;
-  border: 75px solid orange;
+  padding: 150px;
+  border: 10px solid orange;
   margin: auto;
   background-color: white;
 }
