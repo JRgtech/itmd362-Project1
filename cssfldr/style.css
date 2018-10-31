@@ -38,6 +38,7 @@ body, html {
 }
 
 p {
+  text-align: left;
   font-weight: bold;
   color: black;
 }
