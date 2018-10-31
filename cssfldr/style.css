@@ -8,7 +8,7 @@ body, html {
 
 .menu {
   height: 100%;
-  width: 25%;
+  width: 30px;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -19,7 +19,7 @@ body, html {
 
 .menu a {
   text-decoration: none;
-  font-size: 30px;
+  font-size: 25px;
   color: black;
   display: block;
 }
