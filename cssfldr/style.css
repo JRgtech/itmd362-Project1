@@ -13,7 +13,7 @@ body, html {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: rgba(210, 210, 210, 0.3);
+  background-color: silver;
   overflow-x: hidden;
 }
 
@@ -40,6 +40,12 @@ body, html {
 .layout h1 {
   font-size: 25px;
   text-align: center;
+}
+
+.layout h2 {
+  font-size: 15px;
+  text-align: center;
+  text-decoration-style: double;
 }
 
 .des p {
