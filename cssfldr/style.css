@@ -19,22 +19,15 @@ body, html {
 
 .menu a {
   padding: 6px 6px;
-  text-decoration: none;
+  text-decoration: underline;
   font-size: 25px;
   color: black;
   display: block;
 }
 
 .menu a:hover {
-  color: white;
-}
-
-.des {
-  width: 50%;
-  margin: auto;
-  text-align: center;
-  background-color: rgba(210, 210, 210, 0.3);
-  border-radius: 30px;
+  text-decoration: underline white;
+  color: black;
 }
 
 p {
