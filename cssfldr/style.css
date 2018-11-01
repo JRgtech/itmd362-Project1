@@ -57,14 +57,16 @@ background-color: white;
 }
 
 .workpg {
-  max-width: 750px;
+  max-width: 1000px;
   position: relative;
+  padding: 140px;
+  border: 10px solid orange
   margin: auto;
 }
 
-.shot {
+/*.shot {
   display: none;
-}
+}*/
 
 .prev, .next {
   cursor: pointer;
