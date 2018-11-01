@@ -38,11 +38,29 @@ body, html {
 }
 
 .pgintr {
-
+width: 300px;
 padding: 150px;
 border: 10px solid orange;
 margin: auto;
 background-image: url("/itmd362-Project1/picfldr/bkgr.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.pgintr h1 {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.pgintr h2 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.pgintr p {
+  text-align: justify;
 }
 
 .des p {
