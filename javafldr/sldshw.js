@@ -5,10 +5,6 @@ function next(n) {
   imgCount(indx += n);
 }
 
-function currentpic(n) {
-  imgCount(indx = n);
-}
-
 function imgCount(n) {
   var i;
   var pics = document.getElementsByClassName("shot");
