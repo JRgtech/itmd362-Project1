@@ -1,4 +1,4 @@
-var imgcount = 1;
+var indx = 1;
 imgCount(indx);
 
 function next(n) {
