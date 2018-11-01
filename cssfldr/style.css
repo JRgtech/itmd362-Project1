@@ -56,10 +56,17 @@ background-color: white;
   text-align: justify;
 }
 
-.pics img  {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.workpg {
+  padding: 0;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+}
+
+.pics {
+  width: 100%;
+  object-fit: fill;
 }
 
 .des p {
