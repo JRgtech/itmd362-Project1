@@ -66,6 +66,15 @@ background-color: white;
   display: none;
 }
 
+.left .right {
+  cursor: pointer;
+  position: absolute;
+  top: 80%;
+  width: auto;
+  color: white;
+  font-size: 20px;
+}
+
 .text {
   color: white;
   font-size: 12px;
