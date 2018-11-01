@@ -7,7 +7,7 @@ body, html {
 }
 
 .menu {
-  width: 145px;
+  width: 135px;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -18,15 +18,11 @@ body, html {
 }
 
 .menu a {
-  padding: 6px 6px;
+  padding: 5px 5px;
   text-decoration: underline;
-  font-size: 25px;
+  font-size: 15px;
   color: black;
   display: block;
-}
-
-.menu a:hover {
-  color: black;
 }
 
 .layout {
