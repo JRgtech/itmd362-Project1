@@ -62,6 +62,10 @@ background-color: white;
   margin: auto;
 }
 
+.shot {
+  display: none;
+}
+
 .text {
   color: white;
   font-size: 12px;
