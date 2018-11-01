@@ -7,7 +7,7 @@ body, html {
 }
 
 .menu {
-  width: 135px;
+  width: 100px;
   position: fixed;
   z-index: 1;
   top: 0;
