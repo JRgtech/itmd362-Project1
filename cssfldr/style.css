@@ -37,15 +37,12 @@ body, html {
   background-color: white;
 }
 
-.layout h1 {
-  font-size: 25px;
-  margin: 0;
-}
+.pgintr {
 
-.layout h2 {
-  font-size: 15px;
-  text-align: center;
-  text-decoration-style: dashed;
+padding: 150px;
+border: 10px solid orange;
+margin: auto;
+background-image: url("/itmd362-Project1/picfldr/bkgr.jpg");
 }
 
 .des p {
@@ -67,5 +64,4 @@ body, html {
   background-color: white;
   color: black;
   text-align: center;
-}
 }
