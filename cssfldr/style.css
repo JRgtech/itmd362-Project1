@@ -56,6 +56,12 @@ background-color: white;
   text-align: justify;
 }
 
+.pgintr img  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .des p {
   font-weight: bold;
   color: black;
