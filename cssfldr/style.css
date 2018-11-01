@@ -57,8 +57,10 @@ background-color: white;
 }
 
 .workpg {
-  max-width: 1000px;
+  max-width: 1200px;
   position: relative;
+  padding: 140px;
+  border: 10px solid orange
   margin: auto;
 }
 
