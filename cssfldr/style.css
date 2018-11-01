@@ -65,8 +65,8 @@ background-color: white;
 }
 
 .pics {
-  width: 100%;
-  object-fit: fill;
+  width: 300px;
+  object-fit: contain;
 }
 
 .des p {
