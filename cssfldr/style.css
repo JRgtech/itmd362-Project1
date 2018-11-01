@@ -75,6 +75,10 @@ background-color: white;
   font-size: 20px;
 }
 
+.next {
+  right: 0;
+}
+
 .text {
   color: white;
   font-size: 12px;
