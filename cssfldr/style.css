@@ -57,14 +57,14 @@ background-color: white;
 }
 
 .workpg {
-  max-width: 600px;
+  max-width: 1000px;
   position: relative;
   margin: auto;
 }
 
-/*.shot {
+.shot {
   display: none;
-}*/
+}
 
 .prev, .next {
   cursor: pointer;
