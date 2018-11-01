@@ -1,10 +1,10 @@
-/*body, html {
+body, html {
   height: 100%;
-  background-image: url("/itmd362-Project1/picfldr/skyline.jpg");
+  background-image: url("/itmd362-Project1/picfldr/bkgr.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}*/
+}
 
 .menu {
   height: 100%;
@@ -38,14 +38,11 @@
 }
 
 .pgintr {
-width: 300px;
-padding: 100px;
+width: 150px;
+padding: 50px;
 border: 10px solid orange;
 margin: auto;
-background-image: url("/itmd362-Project1/picfldr/bkgr.jpg");
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
+background-color: white;
 }
 
 .pgintr h1 {
